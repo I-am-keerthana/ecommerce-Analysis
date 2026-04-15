@@ -1,0 +1,31 @@
+title,brand,price_usd,rating,review_count,ram_gb,storage_gb,processor,gpu,screen_size_inch
+ASUS VivoBook 15,ASUS,549.99,4.2,312,8,512,Intel Core i5-1235U,Intel Iris Xe,15.6
+Lenovo IdeaPad 3,Lenovo,499.99,4.1,528,8,256,AMD Ryzen 5 5500U,AMD Radeon,15.6
+HP Pavilion 15,HP,629.99,4.3,445,16,512,Intel Core i7-1255U,Intel Iris Xe,15.6
+Acer Aspire 5,Acer,579.99,4.0,389,8,512,AMD Ryzen 5 5625U,AMD Radeon,15.6
+Dell Inspiron 15,Dell,699.99,4.4,276,16,512,Intel Core i5-1235U,Intel Iris Xe,15.6
+ASUS TUF Gaming A15,ASUS,899.99,4.5,621,16,512,AMD Ryzen 7 6800H,NVIDIA RTX 3060,15.6
+Lenovo Legion 5,Lenovo,1099.99,4.6,487,16,1000,AMD Ryzen 7 6800H,NVIDIA RTX 3070,15.6
+MSI GF63 Thin,MSI,749.99,4.1,334,8,512,Intel Core i5-11400H,NVIDIA GTX 1650,15.6
+HP Victus 15,HP,849.99,4.2,298,16,512,AMD Ryzen 5 5600H,NVIDIA RTX 3050,15.6
+Acer Nitro 5,Acer,799.99,4.3,512,16,512,Intel Core i5-12500H,NVIDIA RTX 3050,15.6
+ASUS ZenBook 14,ASUS,999.99,4.5,189,16,512,Intel Core i7-1260P,Intel Iris Xe,14.0
+Lenovo ThinkPad E15,Lenovo,879.99,4.4,156,16,512,Intel Core i5-1235U,Intel Iris Xe,15.6
+Dell XPS 15,Dell,1499.99,4.7,203,16,512,Intel Core i7-12700H,NVIDIA RTX 3050,15.6
+HP Spectre x360,HP,1399.99,4.6,178,16,1000,Intel Core i7-1255U,Intel Iris Xe,14.0
+Microsoft Surface Laptop 5,Microsoft,1299.99,4.5,145,16,512,Intel Core i5-1235U,Intel Iris Xe,13.5
+ASUS VivoBook 17,ASUS,649.99,4.1,267,16,512,Intel Core i5-1235U,Intel Iris Xe,17.3
+Lenovo IdeaPad 5,Lenovo,699.99,4.3,334,16,512,AMD Ryzen 7 5700U,AMD Radeon,15.6
+Acer Swift 3,Acer,749.99,4.4,289,16,512,AMD Ryzen 7 5700U,AMD Radeon,14.0
+HP Envy 15,HP,1099.99,4.5,167,16,512,Intel Core i7-1255U,NVIDIA MX450,15.6
+Dell Latitude 5430,Dell,1199.99,4.4,98,16,256,Intel Core i5-1245U,Intel Iris Xe,14.0
+ASUS ROG Strix G15,ASUS,1399.99,4.6,412,16,1000,AMD Ryzen 9 6900HX,NVIDIA RTX 3070 Ti,15.6
+Lenovo Legion 7,Lenovo,1799.99,4.7,298,32,1000,AMD Ryzen 9 6900HX,NVIDIA RTX 3080,16.0
+Razer Blade 15,Razer,2499.99,4.5,187,16,1000,Intel Core i7-12800H,NVIDIA RTX 3070 Ti,15.6
+MSI Stealth 15M,MSI,1299.99,4.3,145,16,512,Intel Core i7-12700H,NVIDIA RTX 3060,15.6
+Gigabyte AORUS 15,Gigabyte,1599.99,4.4,167,16,1000,Intel Core i7-12700H,NVIDIA RTX 3070,15.6
+ASUS Chromebook CX9,ASUS,699.99,4.2,89,8,256,Intel Core i5-1130G7,Intel Iris Xe,14.0
+Lenovo Chromebook Flex 5,Lenovo,449.99,4.1,234,8,128,Intel Core i3-1115G4,Intel UHD,13.3
+HP Chromebook 14,HP,349.99,3.9,312,4,64,Intel Celeron N4500,Intel UHD,14.0
+Acer Chromebook Spin 514,Acer,499.99,4.2,178,8,128,AMD Ryzen 3 3250C,AMD Radeon,14.0
+Samsung Galaxy Book2,Samsung,1099.99,4.4,145,16,512,Intel Core i7-1255U,Intel Iris Xe,15.6
